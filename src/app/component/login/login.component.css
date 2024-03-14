@@ -67,6 +67,7 @@
     width: 40%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1em;
+    cursor: pointer;
 }
 
 .login-container button {
@@ -75,6 +76,11 @@
 
 .login-container .sign-up{
     text-align: center;
+    text-decoration: none;
+}
+
+.login-container .sign-up:visited {
+    color: black;
 }
 
 .login-container hr {
