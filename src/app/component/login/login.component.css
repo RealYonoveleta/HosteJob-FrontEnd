@@ -74,12 +74,9 @@
     align-self: flex-end;
 }
 
-.login-container .sign-up{
+.login-container .sign-up, .sign-up:visited{
     text-align: center;
     text-decoration: none;
-}
-
-.login-container .sign-up:visited {
     color: black;
 }
 
