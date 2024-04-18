@@ -1,7 +1,3 @@
-# Link
-
-[HosteJob page](https://github.com/RealYonoveleta/HosteJob-FrontEnd/blob/master/src/index.html)
-
 # HosteJob
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
