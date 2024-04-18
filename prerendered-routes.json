@@ -1,9 +1,0 @@
-{
-  "routes": [
-    "/",
-    "/login",
-    "/signup",
-    "/signup-business",
-    "/signup-employee"
-  ]
-}
